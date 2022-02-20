@@ -1,10 +1,6 @@
-name = "my-stripe-worker"
+name = "stripe"
 type = "javascript"
-account_id = ""
-route = ""
-zone_id = ""
-usage_model = ""
-compatibility_flags = []
+
 compatibility_date = "2021-10-06"
 workers_dev = true
 
